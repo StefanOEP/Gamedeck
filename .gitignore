@@ -1,0 +1,5 @@
+.env
+.vscode
+.vscode/tags
+Backup/
+__pycache__/
