@@ -4,7 +4,7 @@ A small python build program for the command-line (TUI) which display and organi
 
 >I wanted to try out working with command line interfaces, and ended up using Python with Npyscreen. I am not usually a Python developer, so i consider this an early prototype that require some cleanup.
 
-![][/Screenshots/example.gif?raw=true]
+![](/Screenshots/example.gif?raw=true)
 
 ## Features
 - Add and edit game meta-data
